@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Expense Manager</string>
+    <string-array name="type">
+        <item>Expense</item>
+        <item>Income</item>
+        <item>Budget</item>
+    </string-array>
+</resources>
